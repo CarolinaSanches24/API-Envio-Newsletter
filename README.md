@@ -2,12 +2,12 @@
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=%20CONCLUIDO&color=GREEN&style=for-the-badge)
 
-Envio de Emails personalizados com Html
+
 <img src="https://sodit.com.br/images/Sodit-email-marketing-bg.jpg" width="100%" height="50%">
 
 # :clipboard: Descrição do Projeto
 
-Consiste em uma API Rest que controla o envio de emails , de forma automatizada.
+Consiste em uma API Rest que controla o envio de emails personalizados com Template Engine , de forma automatizada.
 Oferece conexão com Banco de Dados do PostgresSQL
 
 # Funcionalidades do Projeto
@@ -79,5 +79,4 @@ Pronto, agora só aguardar a análise
 Desenvolvedora de Software</p>
 <br>
 
-<img src="" width="50px" height="50px">
-https://www.linkedin.com/in/carol-sanches-878391185
+[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carol-sanches-878391185/)
